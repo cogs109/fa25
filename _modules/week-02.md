@@ -18,7 +18,7 @@ Oct 8 (W)
 : * [ISLP Ch. 3.2](https://www.statlearning.com/)
 
 Oct 10 (F)
-: **LEC 3**{: .label .label-grey} **Logistic regression** 🎥  
+: **LEC 3**{: .label .label-grey} **Other considerations in regression** 🎥  
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 3.3](https://www.statlearning.com/)
