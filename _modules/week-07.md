@@ -1,5 +1,5 @@
 ---
-title: Week 7 
+title: Week 7 — Tree-Based Methods
 ---
 
 
@@ -9,15 +9,15 @@ Nov 10 (M)
 : [Details](.)
 
 Nov 12 (W)
-: **LEC 2**{: .label .label-grey} **Decision trees: regression & classification** 🎥  
+: **LEC 2**{: .label .label-grey} **Decision trees** 🎥  
     : [Slides](.)
 : Readings 📖
-: * TBA
+: * [ISLP Ch. 8.1](https://www.statlearning.com/)
 
 Nov 14 (F)
 : **LEC 3**{: .label .label-grey} **Bagging, random forests, boosting** 🎥  
     : [Slides](.)
 : Readings 📖
-: * TBA
+: * [ISLP Ch. 8.2](https://www.statlearning.com/)
 : **HW 7 DUE**{: .label .label-red } — due 11:59pm PT
 : [Details](.)
