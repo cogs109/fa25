@@ -1,24 +1,24 @@
 ---
-title: Week 4 
+title: Week 4 — Resampling 
 ---
 
 
 Oct 20 (M)
-: **LEC 1**{: .label .label-grey} **Bias–variance trade-off; Model complexity** 🎥  
+: **LEC 1**{: .label .label-grey} **Cross-validation** 🎥  
     : [Slides](.)
 : Readings 📖
-: * TBA
+: * [ISLP Ch. 5.1](https://www.statlearning.com/)
 : **Quiz 3 DUE**{: .label .label-red } — due 11:59pm PT
 : [Details](.)
 
 Oct 22 (W)
-: **LEC 2**{: .label .label-grey} **Model selection criteria** 🎥  
+: **LEC 2**{: .label .label-grey} **Bootstrap methods** 🎥  
     : [Slides](.)
 : Readings 📖
-: * TBA
+: * [ISLP Ch. 5.2](https://www.statlearning.com/)
 
 Oct 24 (F)
-: **LEC 3**{: .label .label-grey} **Cross-validation** 🎥  
+: **LEC 3**{: .label .label-grey} **Putting it all together: predictive data modeling workflow** 🎥  
     : [Slides](.)
 : Readings 📖
 : * TBA
