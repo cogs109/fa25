@@ -1,5 +1,5 @@
 ---
-title: Week 5 
+title: Week 5 — Model Selection & Regularization
 ---
 
 
@@ -9,15 +9,15 @@ Oct 27 (M)
 : [Details](.)
 
 Oct 29 (W)
-: **LEC 2**{: .label .label-grey} **Regularization** 🎥  
+: **LEC 2**{: .label .label-grey} **Model selection** 🎥  
     : [Slides](.)
 : Readings 📖
-: * TBA
+: * [ISLP Ch. 6.1](https://www.statlearning.com/)
 
 Oct 31 (F)
-: **LEC 3**{: .label .label-grey} **Bootstrap methods; Uncertainty quantification** 🎥  
+: **LEC 3**{: .label .label-grey} **Regularization (shrinkage)** 🎥  
     : [Slides](.)
 : Readings 📖
-: * TBA
+: * [ISLP Ch. 6.2](https://www.statlearning.com/)
 : **HW 5 DUE**{: .label .label-red } — due 11:59pm PT
 : [Details](.)
