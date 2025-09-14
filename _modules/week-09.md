@@ -20,5 +20,5 @@ Nov 26 (W)
 : [Details](.)
 
 Nov 28 (F)
-: **NO CLASS — THANKSGIVING BREAK**{: .label .label-grey}
+: **THANKSGIVING BREAK — No class**{: .label .label-grey}
 : No section this week.

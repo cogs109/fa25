@@ -9,7 +9,7 @@ Oct 13 (M)
 : [Details](.)
 
 Oct 15 (W)
-: **LEC 2**{: .label .label-grey} **Generative classification: LDA, QDA, Naive Bayes** 🎥  
+: **LEC 2**{: .label .label-grey} **Generative classification models: LDA, QDA, Naive Bayes** 🎥  
     : [Slides](.)
 : Readings 📖
 : * TBA

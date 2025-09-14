@@ -2,20 +2,29 @@
 title: Week 1 
 ---
 
+
 Sep 29 (M)
-: **LEC 1**{: .label .label-grey} **[Lecture title]** 🎥  
+: **LEC 1**{: .label .label-grey} **Why model?** 🎥  
     : [Slides](.)
 : Readings 📖
-: * [Ch. X](.)
-:  **Pre-course survey DUE**{: .label .label-red } 
-    : [Pre-course survey](.)
-:  **HW 1 released**{: .label .label-green } Due XXX X
-    : [HW 1](.)
-:  **Syllabus quiz released**{: .label .label-green} Due XXX X
-    : [Syllabus quiz](.)
+: * TBA
+: **Pre-course survey DUE**{: .label .label-red } — due 11:59pm PT
+: [Details](.)
 
 Oct 1 (W)
-: **LEC 2**{: .label .label-grey} **[Lecture title]** 🎥  
+: **LEC 2**{: .label .label-grey} **Types of data; Basic probability and statistics review** 🎥  
     : [Slides](.)
 : Readings 📖
-: * [Ch. X](.)
+: * TBA
+: **Syllabus quiz + learning goals DUE**{: .label .label-red } — due 11:59pm PT
+: [Details](.)
+
+Oct 3 (F)
+: **LEC 3**{: .label .label-grey} **Visualizing data** 🎥  
+    : [Slides](.)
+: Readings 📖
+: * TBA
+: **Group project outline**{: .label .label-green } — assigned
+: [Details](.)
+: **HW 1 DUE**{: .label .label-red } — due 11:59pm PT
+: [Details](.)
