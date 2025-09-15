@@ -46,7 +46,6 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
   - name: Thursday
-   events:
   - name: Friday
     events:
       - name: Lecture
