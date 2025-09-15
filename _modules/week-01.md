@@ -4,7 +4,7 @@ title: Week 1
 
 
 Sep 29 (M)
-: **LEC 1**{: .label .label-grey} **Why model?** 🎥  
+: **LEC 1**{: .label .label-grey} **What is statistical learning?** 🎥  
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 2.1](https://www.statlearning.com/)
@@ -12,7 +12,7 @@ Sep 29 (M)
 : [Details](.)
 
 Oct 1 (W)
-: **LEC 2**{: .label .label-grey} **Types of data; Basic probability and statistics review** 🎥  
+: **LEC 2**{: .label .label-grey} **Assessing model accuracy** 🎥  
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 2.2](https://www.statlearning.com/)
@@ -20,11 +20,11 @@ Oct 1 (W)
 : [Details](.)
 
 Oct 3 (F)
-: **LEC 3**{: .label .label-grey} **Visualizing data** 🎥  
+: **LEC 3**{: .label .label-grey} **Data exploration** 🎥  
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 2.3](https://www.statlearning.com/)
-: **Group project outline**{: .label .label-green } — assigned
+: **Group project released**{: .label .label-green } 
 : [Details](.)
 : **HW 1 DUE**{: .label .label-red } — due 11:59pm PT
 : [Details](.)
