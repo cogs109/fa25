@@ -46,16 +46,16 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
   - name: Thursday
-    
+   events:
   - name: Friday
     events:
       - name: Lecture
         start: 9:00 AM
         end: 9:50 AM
-     - name: Section
+      - name: Section
         start: 4:00 PM
         end: 4:50 PM
-    - name: Section
+      - name: Section
         start: 5:00 PM
         end: 5:50 PM
 ---
