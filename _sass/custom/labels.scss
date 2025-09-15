@@ -35,3 +35,29 @@
   color: $grey-dk-200;
   background-color: $grey-lt-200;
 }
+
+
+/* --- Added by generator on 2025-09-14T23:57:19.736573Z --- */
+// === Custom label palette extracted from screenshot (HW, DISC, LEC, QUIZ, MISC) ===
+// Hex values derived from /mnt/data/71e66c52-496a-4b00-a555-b9a9247c6ea5.png
+$label-hw:   #F04346;  // red  (HW)
+$label-disc: #6795C2;  // blue (DISC)
+$label-lec:  #EAE7E9;  // light grey (LEC)
+$label-quiz: #FF7748;  // orange (QUIZ)
+$label-misc: #04C08B;  // green (MISC)
+
+:root {
+  --label-hw:   #F04346;
+  --label-disc: #6795C2;
+  --label-lec:  #EAE7E9;
+  --label-quiz: #FF7748;
+  --label-misc: #04C08B;
+}
+
+// Label utility classes
+.label-red    { background-color: $label-hw;   color: $white; }
+.label-blue   { background-color: $label-disc; color: $white; }
+.label-grey   { background-color: $label-lec;  color: $grey-dk-200; } // darker text for contrast
+.label-orange { background-color: $label-quiz; color: $white; }
+.label-green  { background-color: $label-misc; color: $white; }
+
