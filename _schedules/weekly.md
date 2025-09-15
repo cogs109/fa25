@@ -21,11 +21,11 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 5:00 PM
-        end: 6:20 PM
+        start: 9:00 AM
+        end: 9:50 AM
       - name: Office Hours
-        start: 6:20 PM
-        end: 7:00 PM
+        start: 12:00 PM
+        end: 1:00 PM
   - name: Tuesday
     events:
       - name: Lecture
@@ -37,18 +37,25 @@ schedule:
   - name: Wednesday
     events:
       - name: Lecture
-        start: 5:00 PM
-        end: 6:20 PM
+        start: 9:00 AM
+        end: 9:50 AM
+      - name: Section
+        start: 2:00 PM
+        end: 2:50 PM
       - name: Office Hours
-        start: 6:20 PM
-        end: 7:00 PM
+        start: 3:00 PM
+        end: 4:00 PM
   - name: Thursday
-    events:
-     - name: Lecture
-       start: 5:00 PM
-       end: 6:20 PM
-     - name: Section
-       start: 1:00 PM
-       end: 1:50 PM
+    
   - name: Friday
+    events:
+      - name: Lecture
+        start: 9:00 AM
+        end: 9:50 AM
+     - name: Section
+        start: 4:00 PM
+        end: 4:50 PM
+    - name: Section
+        start: 5:00 PM
+        end: 5:50 PM
 ---
