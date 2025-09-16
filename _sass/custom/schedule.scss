@@ -53,9 +53,13 @@
 
     &:first-of-type {
       border-left: 0;
+      flex: 0 0 18ch;  /* fixed basis using character width; tweak as needed */
+      min-width: 18ch;
     }
   }
 
+
+  
   h2.schedule-header {
     align-items: center;
     display: flex;
@@ -63,6 +67,7 @@
     height: 40px;
     justify-content: center;
     margin: 0;
+    white-space: nowrap;
   }
 
   .schedule-events {
