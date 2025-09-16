@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 ## Course Information
-|----|----|
+
 | **Instructor** | [Lucy Lai, Ph.D.](https://www.lucylai.com) ([lai@ucsd.edu](mailto:lai@ucsd.edu)) |
 | **TA**         | [Jiesen Zhang](https://diling69.github.io/) ([jiz147@ucsd.edu](jiz147@ucsd.edu))   |
 | **Lectures**   | MWF, 9-9:50am @ Center Hall 113|
