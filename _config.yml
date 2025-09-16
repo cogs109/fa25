@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: COGS 109
-tagline: Modeling and Data Analysis 🧠
-description: How can we use models and data to understand—and predict—the world around us?
+tagline: Modeling and Data Analysis 📊
+description: How can we use models and data to understand and predict the world around us?
 author: Lucy Lai
 baseurl: '/fa25' # the subpath of your site, e.g. /blog
 url: 'https://cogs109.github.io' # the base hostname & protocol for your site, e.g. http://example.com
@@ -38,9 +38,15 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Canvas:
-    - ' '
-  Course Feedback:
+  🖼️ Canvas:
+    - 'https://canvas.ucsd.edu/courses/'
+  🙋🏻 Piazza:
+    - 'https://piazza.com/class/mfbezngedbh3ng#'
+  💯 Gradescope:
+    - 'https://www.gradescope.com/courses/1123242'
+  🎙️ Podcast:
+    - 'https://podcast.ucsd.edu/watch/fa25/cogs109_b0'
+  💬 Feedback:
     - 'https://docs.google.com/forms/d/e/1FAIpQLSeG3HjRZSgFPv9zDxVaMCdYW-iSwYmQHE7t2JbhLA-0upTsQA/viewform?usp=sharing&ouid=113612539407126073694'
 footer_content:
 
