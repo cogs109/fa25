@@ -1,3 +1,20 @@
 $link-color: $blue-300;
 $nav-width: 300px;
 $content-width: 1200px;
+
+$red-200:  #F04346;
+$blue-200: #6795C2;
+$green-100:#04C08B;
+$grey-lt-200: #EAE7E9;
+$yellow-100:#FF7748;
+
+// 2) set the actual scheme variables you want to affect
+//    (these are examples—pick what you need; see the variables list linked below)
+$link-color:           $blue-200;
+$btn-primary-color:    $green-100;
+$btn-primary-color-dark: $green-100;
+
+$body-background-color:  #fff;            // page background
+$sidebar-color:          $grey-lt-200;    // sidebar bg
+$feedback-color:         $red-200;        // error/alert accents
+$code-background-color:  $grey-lt-200;    // fenced code blocks
