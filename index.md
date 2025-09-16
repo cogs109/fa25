@@ -13,6 +13,8 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
+{% include staffer.html staff=staff nobio='true' %}
+
 ## Course Information
 
 | **Instructor** | [Lucy Lai, Ph.D.](https://www.lucylai.com) ([lai@ucsd.edu](mailto:lai@ucsd.edu)) |
