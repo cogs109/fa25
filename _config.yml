@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: COGS 109
-tagline: Modeling and Data Analysis 📊
+tagline: Modeling and Data Analysis 📊 | Fall 2025
 description: How can we use models and data to understand and predict the world around us?
 author: Lucy Lai
 baseurl: '/fa25' # the subpath of your site, e.g. /blog
