@@ -1,11 +1,54 @@
+// Labels (not the form kind)
+
+// this :not() prevents a style clash with Mermaid.js's
+// diagram labels, which also use .label
+// for more, see https://github.com/just-the-docs/just-the-docs/issues/1272
+// and the accompanying PR
+.label:not(g),
+.label-blue:not(g) {
+  display: inline-block;
+  padding: 0.16em 0.56em;
+  margin-right: $sp-2;
+  margin-left: $sp-2;
+  text-transform: uppercase;
+  vertical-align: middle;
+  background-color: #F04346; 
+  color: #fff;
+  border-radius: 12px;
+
+  @include fs-2;
+}
+
+.label-green:not(g) {
+  background-color: #04C08B; 
+  color: #fff;
+}
+
+.label-purple:not(g) {
+  background-color: $purple-100;
+}
+
+.label-red:not(g) {
+  background-color: $red-200;
+}
+
+.label-yellow:not(g) {
+  color: $grey-dk-200;
+  background-color: $yellow-200;
+}
+
+.label-grey:not(g)   { 
+  background-color: #EAE7E9; 
+  color: #2b303b; 
+}
+
 //
 // Labels (not the form kind)
 //
 
-.label,
-.label-red    { background-color: #F04346; color: #fff; }
-.label-blue   { background-color: #6795C2; color: #fff; }
-.label-grey   { background-color: #EAE7E9; color: #2b303b; }
-.label-orange { background-color: #FF7748; color: #fff; }
-.label-green  { background-color: #04C08B; color: #fff; }
+
+//.label-red    { background-color: #F04346; color: #fff; }
+//.label-blue   { background-color: #6795C2; color: #fff; }
+//.label-orange { background-color: #FF7748; color: #fff; }
+//.label-green  { background-color: #04C08B; color: #fff; }
 
