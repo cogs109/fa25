@@ -6,7 +6,6 @@
 @import 'module';
 @import 'schedule';
 @import 'staffer';
-@import "custom/labels";
 
 // Overrides
 a abbr[title] {
@@ -125,11 +124,4 @@ summary {
     height: 100%;
   }
 }
-
-
-label.label-red    { background-color: #F04346; color: #fff; !important; }
-label.label-blue   { background-color: #6795C2; color: #fff; }
-label.label-grey   { background-color: #EAE7E9; color: #2b303b; }
-label.label-orange { background-color: #FF7748; color: #fff; }
-label.label-green  { background-color: #04C08B; color: #fff; }
 
