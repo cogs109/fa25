@@ -13,7 +13,7 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{% include staffer.html staff=staff nobio='true' %}
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %} {% for staffer in instructors %} {{ staffer }} {% endfor %}
 
 ## Course Information
 
