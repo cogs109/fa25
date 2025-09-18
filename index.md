@@ -17,7 +17,7 @@ seo:
 
 ## Important Course Info
 | **TA**         | [Jiesen Zhang](https://diling69.github.io/) ([jiz147@ucsd.edu](jiz147@ucsd.edu))   |
-| **Reader**     | [Jiesen Zhang](https://diling69.github.io/) ([jiz147@ucsd.edu](jiz147@ucsd.edu))   |
+| **Reader**     | [TBD]() ([tbd@ucsd.edu]())   |
 | **Lectures**   | MWF, 9-9:50am @ Center Hall 113|
 | **Discussion**   | - W, 2:00-2:50pm @ Warren Lecture Hall 2113 <br> - F, 4:00-4:50pm @ Warren Lecture Hall 2207 <br> - F, 5:00-5:50pm @ Warren Lecture Hall 2207
 | **Prof. Lai's Office Hours** | TBD |
