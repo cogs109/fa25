@@ -33,7 +33,7 @@
 }
 
 .label-yellow:not(g) {
-  color: $grey-dk-200;
+  color: #fff;
   background-color: $yellow-200;
 }
 
@@ -41,14 +41,4 @@
   background-color: #EAE7E9; 
   color: #2b303b; 
 }
-
-//
-// Labels (not the form kind)
-//
-
-
-//.label-red    { background-color: #F04346; color: #fff; }
-//.label-blue   { background-color: #6795C2; color: #fff; }
-//.label-orange { background-color: #FF7748; color: #fff; }
-//.label-green  { background-color: #04C08B; color: #fff; }
 
