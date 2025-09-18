@@ -15,13 +15,13 @@ seo:
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %} {% for staffer in instructors %} {{ staffer}} {% endfor %}
 
-## Course Information
-
-| **Instructor** | [Lucy Lai, Ph.D.](https://www.lucylai.com) ([lai@ucsd.edu](mailto:lai@ucsd.edu)) |
+## Important Course Info
 | **TA**         | [Jiesen Zhang](https://diling69.github.io/) ([jiz147@ucsd.edu](jiz147@ucsd.edu))   |
+| **Reader**     | [Jiesen Zhang](https://diling69.github.io/) ([jiz147@ucsd.edu](jiz147@ucsd.edu))   |
 | **Lectures**   | MWF, 9-9:50am @ Center Hall 113|
-| **Discussion**   | W, 2:00-2:50pm @ Warren Lecture Hall 2113 <br> F, 4:00-4:50pm @ Warren Lecture Hall 2207 <br> F, 5:00-5:50pm @ Warren Lecture Hall 2207
-| **Office Hours** | TBD |
+| **Discussion**   | - W, 2:00-2:50pm @ Warren Lecture Hall 2113 <br> - F, 4:00-4:50pm @ Warren Lecture Hall 2207 <br> - F, 5:00-5:50pm @ Warren Lecture Hall 2207
+| **Prof. Lai's Office Hours** | TBD |
+| **Jiesen's Office Hours** | During discussion section |
 
 ## Course Schedule
 {% for module in site.modules %}
