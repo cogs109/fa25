@@ -16,7 +16,7 @@ seo:
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %} {% for staffer in instructors %} {{ staffer}} {% endfor %}
 
 ## Important Course Info
-
+|-----|------|
 | **TA**         | [Jiesen Zhang](https://diling69.github.io/) ([jiz147@ucsd.edu](jiz147@ucsd.edu))   |
 | **Reader**     | [TBD]() ([tbd@ucsd.edu]())   |
 | **Lectures**   | MWF, 9-9:50am @ Center Hall 113|
