@@ -17,7 +17,7 @@ seo:
 
 ## Important Course Info
 
-|-----|-----|
+|--|-----|
 | **TA**         | [Jiesen Zhang](https://diling69.github.io/) ([jiz147@ucsd.edu](jiz147@ucsd.edu))   |
 | **Reader**     | TBD  |
 | **Lectures**   | MWF, 9-9:50am @ CENTR 113 |
