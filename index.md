@@ -21,7 +21,7 @@ seo:
 | **TA**         | [Jiesen Zhang](https://diling69.github.io/) ([jiz147@ucsd.edu](jiz147@ucsd.edu))   |
 | **Reader**     | TBD  |
 | **Lectures**   | MWF, 9-9:50am @ CENTR 113 |
-| **Discussion**   | <br> • W, 2:00-2:50pm @ WLH 2113 <br> • F, 4:00-4:50pm @ WLH 2207 <br> • F, 5:00-5:50pm @ WLH2207 |
+| **Discussion**   |• W, 2:00-2:50pm @ WLH 2113 <br> • F, 4:00-4:50pm @ WLH 2207 <br> • F, 5:00-5:50pm @ WLH2207 |
 | **Prof. Lai's Office Hours** | TBD |
 | **Jiesen's Office Hours** | During discussion section |
 
