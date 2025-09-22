@@ -3,28 +3,28 @@ title: Week 1 — Intro to Statistical Learning
 ---
 
 
-**Mon Sep 29**
+**Sep 29 (M)**
 : **LEC 1**{: .label .label-grey} **What is statistical learning?** 🎥  
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 2.1](https://www.statlearning.com/)
-: **Pre-course survey**{: .label .label-red } due 11:59pm PT
-    : [Submit](.)
 
-**Wed Oct 1**
+**Oct 1 (W)**
 : **LEC 2**{: .label .label-grey} **Assessing model accuracy** 🎥  
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 2.2](https://www.statlearning.com/)
-: **Syllabus quiz**{: .label .label-red } due 11:59pm PT
-: [Details](.)
 
-**Fri Oct 1**
+**Oct 1 (F)**
 : **LEC 3**{: .label .label-grey} **Data exploration** 🎥  
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 2.3](https://www.statlearning.com/)
 : **Group project released**{: .label .label-green } 
 : [Details](.)
-: **HW 1**{: .label .label-red } due 11:59pm PT
+: **Syllabus quiz**{: .label .label-red } <font color="red">due 11:59pm</font>
+: [Details](.)
+: **Pre-course survey**{: .label .label-red } <font color="red">due 11:59pm</font>
+    : [Submit](.)
+: **HW 1**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](.)
