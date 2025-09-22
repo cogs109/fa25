@@ -26,9 +26,6 @@ schedule:
       - name: Lecture
         start: 9:00 AM
         end: 9:50 AM
-      - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
   - name: Tuesday
   - name: Wednesday
     events:
@@ -42,6 +39,10 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
   - name: Thursday
+    events:
+      - name: Office Hours
+        start: 4:30 PM
+        end: 5:30 PM
   - name: Friday
     events:
       - name: Lecture
