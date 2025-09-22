@@ -8,8 +8,8 @@ Oct 6 (M)
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 3.1](https://www.statlearning.com/)
-: **Quiz 1**{: .label .label-yellow } due 11:59pm PT
-: [Details](.)
+: **Quiz 1**{: .label .label-yellow } <font color="red">due 11:59pm</font>
+    : [Submit](.)
 
 Oct 8 (W)
 : **LEC 2**{: .label .label-grey} **Multiple linear regression** 🎥  
@@ -22,5 +22,5 @@ Oct 10 (F)
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 3.3](https://www.statlearning.com/)
-: **HW 2 **{: .label .label-red } due 11:59pm PT
+: **HW 2**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](.)
