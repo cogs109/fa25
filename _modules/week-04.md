@@ -8,8 +8,8 @@ Oct 20 (M)
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 5.1](https://www.statlearning.com/)
-: **Quiz 3 DUE**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+: **Quiz 3**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
+    : [Submit](.)
 
 Oct 22 (W)
 : **LEC 2**{: .label .label-grey} **Bootstrap methods** 🎥  
@@ -20,7 +20,5 @@ Oct 22 (W)
 Oct 24 (F)
 : **LEC 3**{: .label .label-grey} **Putting it all together: predictive data modeling workflow** 🎥  
     : [Slides](.)
-: Readings 📖
-: * TBA
-: **HW 4 DUE**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+: **HW 4 DUE**{: .label .label-red } <font color="red">due 11:59pm</font>
+    : [Submit](.)
