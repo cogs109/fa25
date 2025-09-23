@@ -8,8 +8,8 @@ Nov 24 (M)
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 10.1-10.2](https://www.statlearning.com/)
-: **Quiz 8 DUE**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+: **Quiz 8**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
+    : [Submit](.)
 
 Nov 26 (W)
 : **LEC 2**{: .label .label-grey} **Convolutional neural networks** 🎥  
@@ -20,5 +20,5 @@ Nov 26 (W)
 Nov 28 (F)
 : **THANKSGIVING BREAK — No class**{: .label .label-grey}
 : No section this week.
-: **HW 9 DUE**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+: **HW 9**{: .label .label-red } <font color="red">due 11:59pm</font>
+    : [Submit](.)
