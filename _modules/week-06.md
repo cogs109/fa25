@@ -8,8 +8,8 @@ Nov 3 (M)
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 7.1-7.3](https://www.statlearning.com/)
-: **Quiz 5 DUE**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+: **Quiz 5**{: .label .label-yellow} <font color="orange">due 11:59pm</font>
+    : [Submit](.)
 
 Nov 5 (W)
 : **LEC 2**{: .label .label-grey} **Splines & smoothing** 🎥  
@@ -22,5 +22,5 @@ Nov 7 (F)
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 7.7](https://www.statlearning.com/)
-: **HW 6 DUE**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+: **HW 6**{: .label .label-red } <font color="red">due 11:59pm</font>
+    : [Submit](.)
