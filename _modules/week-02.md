@@ -8,7 +8,7 @@ Oct 6 (M)
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 3.1](https://www.statlearning.com/)
-: **Quiz 1**{: .label .label-yellow } <font color="red">due 11:59pm</font>
+: **Quiz 1**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
     : [Submit](.)
 
 Oct 8 (W)
