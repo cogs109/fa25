@@ -5,8 +5,8 @@ title: Week 7 — Tree-Based Methods
 
 Nov 10 (M)
 : **EXAM 3**{: .label .label-red} *(covers Weeks 5 & 6)*
-: **Quiz 6 DUE (optional)**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+: **Quiz 6**{: .label .label-yellow } <font color="orange">(optional) due 11:59pm</font>
+    : [Submit](.)
 
 Nov 12 (W)
 : **LEC 2**{: .label .label-grey} **Decision trees** 🎥  
@@ -20,4 +20,4 @@ Nov 14 (F)
 : Readings 📖
 : * [ISLP Ch. 8.2](https://www.statlearning.com/)
 : **HW 7 DUE**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+    : [Submit](.)
