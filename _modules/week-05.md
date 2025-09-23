@@ -5,8 +5,8 @@ title: Week 5 — Model Selection & Regularization
 
 Oct 27 (M)
 : **EXAM 2**{: .label .label-red} *(covers Weeks 3 & 4)*
-: **Quiz 4 DUE (optional)**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+: **Quiz 4**{: .label .label-yellow } <font color="orange">(optional) due 11:59pm</font>
+    : [Submit](.)
 
 Oct 29 (W)
 : **LEC 2**{: .label .label-grey} **Model selection** 🎥  
@@ -19,5 +19,5 @@ Oct 31 (F)
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 6.2](https://www.statlearning.com/)
-: **HW 5 DUE**{: .label .label-red } — due 11:59pm PT
-: [Details](.)
+: **HW 5**{: .label .label-red }<font color="red">due 11:59pm</font>
+    : [Submit](.)
