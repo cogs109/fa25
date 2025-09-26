@@ -19,7 +19,7 @@ seo:
 
 |--|-----|
 | **TA**         | [Jiesen Zhang](jiz147@ucsd.edu), OH: during discussion sections|
-| **PLAs**       | [Parinita Saha](psaha@ucsd.edu)) & [Johny Nguyen](jon009@ucsd.edu)|
+| **PLAs**       | [Parinita Saha](psaha@ucsd.edu) & [Johny Nguyen](jon009@ucsd.edu)|
 | **Reader**     | [Zhicheng Wang](zhw049@ucsd.edu)  |
 | **Lectures**   | MWF, 9-9:50am @ CENTR 113 |
 | **Discussion**   |• W, 2-2:50pm @ WLH 2113 <br> • F, 4-4:50pm @ WLH 2207 <br> • F, 5-5:50pm @ WLH 2207 |
