@@ -2,7 +2,7 @@
 name: Parinita Saha
 role: Teaching Assistant
 email: psaha@ucsd.edu
-photo: paranita.png
+photo: pari.png
 ---
 
 
