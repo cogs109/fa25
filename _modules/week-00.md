@@ -9,3 +9,4 @@ title: Week 0
 : Readings 📖
 : * [ISLP Ch. 1](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} **No section this week** 
+: ⚠️ **If you missed today's class**, please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/976095?is_announcement=true)
