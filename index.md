@@ -18,9 +18,9 @@ seo:
 ## Important Course Info
 
 |--|-----|
-| **TA**         | [Jiesen Zhang](jiz147@ucsd.edu), OH: during discussion sections|
-| **PLAs**       | [Parinita Saha](psaha@ucsd.edu) & [Johny Nguyen](jon009@ucsd.edu)|
-| **Reader**     | [Zhicheng Wang](zhw049@ucsd.edu)  |
+| **TA**         | [Jiesen Zhang](mailto:jiz147@ucsd.edu), OH: during discussion sections|
+| **PLAs**       | [Parinita Saha](mailto:psaha@ucsd.edu) & [Johny Nguyen](mailto:jon009@ucsd.edu)|
+| **Reader**     | [Zhicheng Wang](mailto:zhw049@ucsd.edu)  |
 | **Lectures**   | MWF, 9-9:50am @ CENTR 113 |
 | **Discussion**   |• W, 2-2:50pm @ WLH 2113 <br> • F, 4-4:50pm @ WLH 2207 <br> • F, 5-5:50pm @ WLH 2207 |
 | **Prof. Lai's Office Hours** | W, 3-4:30pm ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5)/walk-in) or Th, 4:30-5:30pm ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom) |
