@@ -4,12 +4,13 @@ title: Week 1 — Intro to Statistical Learning
 
 
 **Sep 29 (M)**
-: **LEC 1**{: .label .label-grey} **What is statistical learning?** 🎥  
+: **LEC 1**{: .label .label-grey} (**What is statistical learning?**)[https://podcast.ucsd.edu/watch/fa25/cogs109_b00/2] 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16060421)
 : Readings 📖
 : * [ISLP Ch. 2.1](https://www.statlearning.com/)
 : **HW 1**{: .label .label-purple } released!
     : [Details](https://canvas.ucsd.edu/courses/68350/assignments/1022871)
+: [**💡 How to fix the webclicker issue**](https://canvas.ucsd.edu/courses/68350/discussion_topics/977256)
 
 **Oct 1 (W)**
 : **LEC 2**{: .label .label-grey} **Assessing model accuracy** 🎥  
