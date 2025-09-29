@@ -5,7 +5,7 @@ title: Week 1 — Intro to Statistical Learning
 
 **Sep 29 (M)**
 : **LEC 1**{: .label .label-grey} **What is statistical learning?** 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16060421)
 : Readings 📖
 : * [ISLP Ch. 2.1](https://www.statlearning.com/)
 : **HW 1**{: .label .label-purple } released!
