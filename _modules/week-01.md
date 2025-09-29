@@ -8,6 +8,8 @@ title: Week 1 — Intro to Statistical Learning
     : [Slides](.)
 : Readings 📖
 : * [ISLP Ch. 2.1](https://www.statlearning.com/)
+: **HW 1**{: .label .label-purple } released!
+    : [Details](https://canvas.ucsd.edu/courses/68350/assignments/1022871)
 
 **Oct 1 (W)**
 : **LEC 2**{: .label .label-grey} **Assessing model accuracy** 🎥  
@@ -29,4 +31,4 @@ title: Week 1 — Intro to Statistical Learning
 : **Pre-course survey**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1010395)
 : **HW 1**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit](.)
+    : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1022871)
