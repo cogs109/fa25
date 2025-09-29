@@ -18,7 +18,7 @@ title: Week 1 — Intro to Statistical Learning
 : * [ISLP Ch. 2.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
-**Oct 1 (F)**
+**Oct 3 (F)**
 : **LEC 3**{: .label .label-grey} **Data exploration** 🎥  
     : [Slides](.)
 : Readings 📖
