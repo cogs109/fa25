@@ -18,7 +18,7 @@ seo:
 ## Important Course Info
 
 |--|-----|
-| **TA**         | [Jiesen Zhang](mailto:jiz147@ucsd.edu), OH: during discussion sections|
+| **TA**         | [Jiesen Zhang](mailto:jiz147@ucsd.edu)|
 | **PLAs**       | [Parinita Saha](mailto:psaha@ucsd.edu) & [Johny Nguyen](mailto:jon009@ucsd.edu)|
 | **Reader**     | [Zhicheng Wang](mailto:zhw049@ucsd.edu)  |
 | **Lectures**   | MWF, 9-9:50am @ CENTR 113 |
