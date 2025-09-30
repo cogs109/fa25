@@ -23,7 +23,13 @@ seo:
 | **Reader**     | [Zhicheng Wang](mailto:zhw049@ucsd.edu)  |
 | **Lectures**   | MWF, 9-9:50am @ CENTR 113 |
 | **Discussion**   |• W, 2-2:50pm @ WLH 2113 <br> • F, 4-4:50pm @ WLH 2207 <br> • F, 5-5:50pm @ WLH 2207 |
-| **Prof. Lai's Office Hours** | W, 3-4:30pm ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5)/walk-in) or Th, 4:30-5:30pm ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom) |
+
+## Office Hours
+| **Prof. Lai** | W, 3-4:30pm ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5)/walk-in) or Th, 4:30-5:30pm ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom) |
+| **Jiesen Zhang** | During all discussion sections |
+| **Johny Nguyen** | During Wed, 2pm discussion sections and Wednesday, 12-1pm on Zoom ([book](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1WvcYtgNkM4YyT0kNVwXJozy4e8Q_38ggQFCpD8pPgP1ppncu73eGhm8SXFO1UgkTubgojQ5Vu))|
+| **Parinita Saha** | During Fri, 4pm discussion section and TBD on Zoom ([book](.))|
+
 
 ## Course Schedule
 {% for module in site.modules %}
