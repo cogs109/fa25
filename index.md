@@ -27,7 +27,7 @@ seo:
 ## Office Hours
 
 |--|-----|
-| **Prof. Lai** | **W, 3-4:30pm** ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5)/walk-in) or **Th, 4:30-5:30pm** ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom |
+| **Prof. Lai** | **W, 3-4:30pm** ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5)/walk-in) and **Th, 4:30-5:30pm** ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom |
 | **Jiesen Zhang** | During **all discussion sections** |
 | **Johny Nguyen** | During **W, 2pm** discussion sections and **W, 12-1pm** on Zoom ([book](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1WvcYtgNkM4YyT0kNVwXJozy4e8Q_38ggQFCpD8pPgP1ppncu73eGhm8SXFO1UgkTubgojQ5Vu))|
 | **Parinita Saha** | During **F, 4pm** discussion section and **F, 3-4pm** on Zoom ([book](calendar.app.google/HLzdroXxskiB1rtx8))|
