@@ -14,7 +14,7 @@ title: Week 1 — Intro to Statistical Learning
 
 **Oct 1 (W)**
 : **LEC 2**{: .label .label-grey} **Assessing model accuracy** 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16079542)
 : Readings 📖
 : * [ISLP Ch. 2.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
