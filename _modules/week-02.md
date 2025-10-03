@@ -8,7 +8,7 @@ title: Week 2 — Regression
 : Readings 📖
 : * [ISLP Ch. 3.1](https://www.statlearning.com/)
 : **Quiz 1**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
-    : [Submit](.)
+    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/227322)
 
 **Oct 8 (W)**
 : **LEC 5**{: .label .label-grey} **Multiple linear regression** 🎥  
