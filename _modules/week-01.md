@@ -26,7 +26,7 @@ title: Week 1 — Intro to Statistical Learning
 : * [ISLP Ch. 2.3](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Group project**{: .label .label-blue} Guidelines and rubric released
-    : [Details](.)
+    : [Details](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?usp=sharing)
 : **Quiz 1**{: .label .label-purple } released! <font color="red">due M, Oct 6 @ 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/227322)
 : **Syllabus quiz**{: .label .label-red } <font color="red">due 11:59pm</font>
