@@ -11,13 +11,11 @@ title: Week 5 — Model Selection & Regularization
 **Oct 29 (W)**
 : **LEC 12**{: .label .label-grey} **Model selection** 🎥  
     : [Slides](.)
-: Readings 📖
-: * [ISLP Ch. 6.1](https://www.statlearning.com/)
+: 📖 Readings: [ISLP Ch. 6.1](https://www.statlearning.com/)
 
 **Oct 31 (F)**
 : **LEC 13**{: .label .label-grey} **Regularization (shrinkage)** 🎥  
     : [Slides](.)
-: Readings 📖
-: * [ISLP Ch. 6.2](https://www.statlearning.com/)
+: 📖 Readings: [ISLP Ch. 6.2](https://www.statlearning.com/)
 : **HW 5**{: .label .label-red }<font color="red">due 11:59pm</font>
     : [Submit](.)
