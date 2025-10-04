@@ -23,3 +23,4 @@ title: Week 2 — Regression
 : * [ISLP Ch. 3.3](https://www.statlearning.com/)
 : **HW 2**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](.)
+: **#FinAid**{: .label .label-red } <font color="red">due TODAY</font> Please submit this short survey to confirm student activity for the quarter! (Required for all students)
