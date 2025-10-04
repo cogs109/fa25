@@ -20,7 +20,7 @@ title: Week 1 — Intro to Statistical Learning
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
 **Oct 3 (F)**
-: **LEC 3**{: .label .label-grey} **Data exploration** 🎥  
+: **LEC 3**{: .label .label-grey} [**Data exploration**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/4) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16095817)
 : Readings 📖
 : * [ISLP Ch. 2.3](https://www.statlearning.com/)
