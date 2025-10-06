@@ -11,7 +11,7 @@ title: Week 2 — Regression
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/227322)
 : **HW 2**{: .label .label-purple } released!
     : [Details](https://canvas.ucsd.edu/courses/68350/assignments/1035368)
-: 🚨 **Reminders for Week 2**: please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/980864)
+: 🚨 **Week 2 Reminders**: please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/980864)
 
 **Oct 8 (W)**
 : **LEC 5**{: .label .label-grey} [**Multiple linear regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/6) 🎥  
