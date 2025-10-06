@@ -9,6 +9,8 @@ title: Week 2 — Regression
 : [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me as a learning tool and to follow along in lecture!
 : **Quiz 1**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/227322)
+: **HW 2**{: .label .label-purple } released!
+    : [Details](https://docs.google.com/document/d/1bN4ExGc29p-eFBA3lfkiXagL18sDMRxrRzhD87QVXi4/edit?tab=t.0)
 
 **Oct 8 (W)**
 : **LEC 5**{: .label .label-grey} **Multiple linear regression** 🎥  
