@@ -17,11 +17,13 @@ title: Week 2 — Regression
 : **LEC 5**{: .label .label-grey} [**Multiple linear regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/6) 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 3.2](https://www.statlearning.com/)
+: **DISC**{: .label .label-green} 2pm @ WLH 2113
 
 **Oct 10 (F)**
 : **LEC 6**{: .label .label-grey} [**Other considerations in regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/7) 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 3.3](https://www.statlearning.com/)
+: **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **HW 2**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1035368)
 : **#FinAid**{: .label .label-red } <font color="red">due TODAY</font> Please submit this short survey to confirm student activity for the quarter! (Required for all students)
