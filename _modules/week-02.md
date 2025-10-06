@@ -3,7 +3,7 @@ title: Week 2 — Regression
 ---
 
 **Oct 6 (M)**
-: **LEC 4**{: .label .label-grey} **Simple linear regression** 🎥  
+: **LEC 4**{: .label .label-grey} [**Simple linear regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/5) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16123709)
 : 📖 Readings: [ISLP Ch. 3.1](https://www.statlearning.com/)
 : [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me as a learning tool and to follow along in lecture!
@@ -13,12 +13,12 @@ title: Week 2 — Regression
     : [Details](https://canvas.ucsd.edu/courses/68350/assignments/1035368)
 
 **Oct 8 (W)**
-: **LEC 5**{: .label .label-grey} **Multiple linear regression** 🎥  
+: **LEC 5**{: .label .label-grey} [**Multiple linear regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/6) 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 3.2](https://www.statlearning.com/)
 
 **Oct 10 (F)**
-: **LEC 6**{: .label .label-grey} **Other considerations in regression** 🎥  
+: **LEC 6**{: .label .label-grey} [**Other considerations in regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/7) 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 3.3](https://www.statlearning.com/)
 : **HW 2**{: .label .label-red } <font color="red">due 11:59pm</font>
