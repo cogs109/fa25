@@ -10,7 +10,7 @@ title: Week 2 — Regression
 : **Quiz 1**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/227322)
 : **HW 2**{: .label .label-purple } released!
-    : [Details](https://docs.google.com/document/d/1bN4ExGc29p-eFBA3lfkiXagL18sDMRxrRzhD87QVXi4/edit?tab=t.0)
+    : [Details](https://canvas.ucsd.edu/courses/68350/assignments/1035368)
 
 **Oct 8 (W)**
 : **LEC 5**{: .label .label-grey} **Multiple linear regression** 🎥  
