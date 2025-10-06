@@ -4,7 +4,7 @@ title: Week 2 — Regression
 
 **Oct 6 (M)**
 : **LEC 4**{: .label .label-grey} **Simple linear regression** 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16123709)
 : 📖 Readings: [ISLP Ch. 3.1](https://www.statlearning.com/)
 : [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me as a learning tool and to follow along in lecture!
 : **Quiz 1**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
