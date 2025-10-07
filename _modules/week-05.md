@@ -4,7 +4,7 @@ title: Week 5 — Model Selection & Regularization
 
 
 **Oct 27 (M)**
-: **EXAM 2**{: .label .label-red} *(covers Weeks 3 & 4)*
+: **EXAM 2**{: .label .label-red} *covers Weeks 3 & 4*
 : **Quiz 4**{: .label .label-yellow } <font color="orange">(optional) due 11:59pm</font>
     : [Submit](.)
 
