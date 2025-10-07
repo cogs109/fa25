@@ -12,11 +12,13 @@ title: Week 6 — Non-Linear Regression
 **Nov 5 (W)**
 : **LEC 15**{: .label .label-grey} **Splines & smoothing** 🎥  
     : [Slides](.)
+: **DISC**{: .label .label-green} 2pm @ WLH 2113
 : 📖 Readings: [ISLP Ch. 7.4-7.5](https://www.statlearning.com/)
 
 **Nov 7 (F)**
 : **LEC 16**{: .label .label-grey} **Generalized additive models** 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 7.7](https://www.statlearning.com/)
+: **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **HW 6**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](.)
