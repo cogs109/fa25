@@ -8,9 +8,10 @@ title: Week 10 — Final project presentations
     : [Submit](.)
 
 **Dec 3 (W)**
-: **Group project presentations**{: .label .label-blue}
+: **Group project expo**{: .label .label-blue}
+: **DISC**{: .label .label-green} **No section this week** 
 
-**Dec 5 (F)**
-: **Group project presentations**{: .label .label-blue}
-: **SET evaluations DUE (Sat, Dec 6)**{: .label .label-red}
-: No section this week
+**Dec 3-5 (W-F)**
+: **Final group project presentations**{: .label .label-blue}
+: **DISC**{: .label .label-green} **No section this week** 
+: **SET evaluations**{: .label .label-red} DUE Sat, Dec 6
