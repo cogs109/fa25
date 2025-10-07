@@ -12,12 +12,13 @@ title: Week 8 — Unsupervised Learning
 **Nov 19 (W)**
 : **LEC 20**{: .label .label-grey} **Factor analysis** 🎥  
     : [Slides](.)
-: Readings 📖
-: * TBD
+: 📖 Readings: TBD
+: **DISC**{: .label .label-green} **No section this week** 
 
 **Nov 21 (F)**
 : **LEC 21**{: .label .label-grey} **K-means & hierarchical clustering** 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 12.4](https://www.statlearning.com/)
+: **DISC**{: .label .label-green} **No section this week** 
 : **HW 8**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](.)
