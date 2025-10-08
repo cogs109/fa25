@@ -3,7 +3,7 @@ title: Week 1 — Intro to Statistical Learning
 ---
 
 **General**
-: [**🛝 Week 1 — all slides**](https://canvas.ucsd.edu/courses/68350/files)
+: [**🛝 Week 1 — all slides**](https://canvas.ucsd.edu/courses/68350/files/16126111)
 : **🚨 Week 1 Reminders**: please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/980165)
 : **#FinAid**{: .label .label-purple } Please submit this short survey to confirm student activity for the quarter! (Required for all students)
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/229439)
