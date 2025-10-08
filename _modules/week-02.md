@@ -1,17 +1,22 @@
 ---
 title: Week 2 — Regression
 ---
+**General**
+: 💡**Resources**:
+: [Linear regression modeling workflow](https://docs.google.com/document/d/1C3tzwvHmFvLtFlsFQCIB61KG9klACVmdcKRRBz1PqZ4/edit?usp=sharing)
+: [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me as a learning tool and to follow along in lecture!
+: [Models overview notes template](https://canvas.ucsd.edu/courses/68350/files/16145778) — use me as a learning tool!
+: [Common statistical tests are linear models!](https://lindeloev.github.io/tests-as-linear/)
+: 🚨 **Week 2 Reminders**: please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/980864)
 
 **Oct 6 (M)**
 : **LEC 4**{: .label .label-grey} [**Simple linear regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/5) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16123709)
 : 📖 Readings: [ISLP Ch. 3.1](https://www.statlearning.com/)
-: [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me as a learning tool and to follow along in lecture!
 : **Quiz 1**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/227322)
 : **HW 2**{: .label .label-purple } released!
     : [Details](https://canvas.ucsd.edu/courses/68350/assignments/1035368)
-: 🚨 **Week 2 Reminders**: please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/980864)
 
 **Oct 8 (W)**
 : **LEC 5**{: .label .label-grey} [**Multiple linear regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/6) 🎥  
