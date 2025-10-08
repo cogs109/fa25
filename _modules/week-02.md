@@ -2,6 +2,7 @@
 title: Week 2 — Regression
 ---
 **General**
+: [**FINAL PROJECT GROUPS**](https://canvas.ucsd.edu/courses/68350/modules/items/2988547)
 : 💡**Resources**:
 : * [Linear regression modeling workflow](https://docs.google.com/document/d/1C3tzwvHmFvLtFlsFQCIB61KG9klACVmdcKRRBz1PqZ4/edit?usp=sharing)
 : * [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me as a learning tool and to follow along in lecture!
