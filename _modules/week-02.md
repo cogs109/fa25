@@ -20,7 +20,7 @@ title: Week 2 — Regression
 
 **Oct 8 (W)**
 : **LEC 5**{: .label .label-grey} [**Multiple linear regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/6) 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16146491)
 : 📖 Readings: [ISLP Ch. 3.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
