@@ -4,9 +4,9 @@ title: Week 2 — Regression
 **General**
 : [**📊 FINAL PROJECT GROUPS 📊**](https://canvas.ucsd.edu/courses/68350/modules/items/2988547)
 : 💡**Resources**:
-: * [**Exam question bank**](https://docs.google.com/document/d/1_qDCsYOPsfxllOc6KUFbGIa8eB102DDI4iY1hnWydYE/edit?usp=sharing)
+: * [**Exam question bank**](https://docs.google.com/document/d/1_qDCsYOPsfxllOc6KUFbGIa8eB102DDI4iY1hnWydYE/edit?usp=sharing) — use me to study for exams!
 : * [Linear regression modeling workflow](https://docs.google.com/document/d/1C3tzwvHmFvLtFlsFQCIB61KG9klACVmdcKRRBz1PqZ4/edit?usp=sharing)
-: * [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me as a learning tool and to follow along in lecture!
+: * [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me to follow along in lecture!
 : * [Models overview notes template](https://canvas.ucsd.edu/courses/68350/files/16145778) — use me as a learning tool!
 : * [Common statistical tests are linear models!](https://lindeloev.github.io/tests-as-linear/)
 : 🚨 **Week 2 Reminders**: please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/980864)
