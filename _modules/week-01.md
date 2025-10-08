@@ -2,6 +2,10 @@
 title: Week 1 — Intro to Statistical Learning
 ---
 
+**General**
+: **🚨 Week 1 Reminders**: please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/980165)
+: **#FinAid**{: .label .label-purple } Please submit this short survey to confirm student activity for the quarter! (Required for all students)
+    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/229439)
 
 **Sep 29 (M)**
 : **LEC 1**{: .label .label-grey} [**What is statistical learning?**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/2) 🎥  
@@ -32,6 +36,3 @@ title: Week 1 — Intro to Statistical Learning
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1010395)
 : **HW 1**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1022871)
-: **#FinAid**{: .label .label-purple } Please submit this short survey to confirm student activity for the quarter! (Required for all students)
-    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/229439)
-: **🚨 Week 1 Reminders**: please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/980165)
