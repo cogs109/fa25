@@ -21,12 +21,14 @@ title: Week 1 — Intro to Statistical Learning
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16079542)
 : 📖 Readings: [ISLP Ch. 2.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16164405)
 
 **Oct 3 (F)**
 : **LEC 3**{: .label .label-grey} [**Data exploration**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/4) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16095817)
 : 📖 Readings: [ISLP Ch. 2.3](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16164405)
 : **Group project**{: .label .label-blue} Guidelines and rubric released
     : [Details](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?usp=sharing)
 : **Quiz 1**{: .label .label-purple } released! <font color="red">due M, Oct 6 @ 11:59pm</font>
