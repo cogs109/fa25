@@ -32,6 +32,8 @@ title: Week 2 — Regression
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 3.3](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+: **Quiz 2**{: .label .label-purple} released! (optional) <font color="red">due M, Oct 13 @ 11:59pm</font>
+   : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/229752)
 : **HW 2**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1035368)
 : **#FinAid**{: .label .label-red } <font color="red">due TODAY</font> Please submit this short survey to confirm student activity for the quarter! (Required for all students)
