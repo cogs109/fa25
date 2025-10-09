@@ -8,7 +8,7 @@ title: Week 3 — Classification
 **Oct 13 (M)**
 : **EXAM 1**{: .label .label-red} *covers Weeks 1 & 2*
 : **Quiz 2**{: .label .label-yellow } <font color="orange">(optional) due 11:59pm</font>
-   : [Submit](.)
+   : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/229752)
 
 **Oct 15 (W)**
 : **LEC 7**{: .label .label-grey} **Logistic Regression** 🎥  
