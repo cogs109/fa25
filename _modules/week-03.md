@@ -3,7 +3,6 @@ title: Week 3 — Classification
 ---
 **General**
 : **🛝 Week 3 — all slides**
-: 💡**Resources**:
 
 **Oct 13 (M)**
 : **EXAM 1**{: .label .label-red} *covers Weeks 1 & 2*
