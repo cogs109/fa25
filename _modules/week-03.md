@@ -6,8 +6,9 @@ title: Week 3 — Classification
 : 💡**Resources**:
 
 **Oct 13 (M)**
-: **EXAM 1**{: .label .label-red} *covers Weeks 1 & 2*; you get one 8.5x11" cheat-sheet, one-sided
-: To prepare for the exam: review HW1 & 2, Quiz 1&2, webclicker questions from Week 1 and 2.
+: **EXAM 1**{: .label .label-red} *covers Weeks 1 & 2*
+: * You may bring one 8.5x11" cheat-sheet, one-sided
+: * To prepare: review HW 1&2, Quiz 1&2, webclicker questions from Week 1&2, check out the [**exam question bank**](https://docs.google.com/document/d/1_qDCsYOPsfxllOc6KUFbGIa8eB102DDI4iY1hnWydYE/edit?usp=sharing).
 : **Quiz 2**{: .label .label-yellow } <font color="orange">(optional) due 11:59pm</font>
    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/229752)
 
