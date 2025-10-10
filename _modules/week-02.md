@@ -5,6 +5,7 @@ title: Week 2 — Regression
 : [**📊 FINAL PROJECT GROUPS 📊**](https://canvas.ucsd.edu/courses/68350/modules/items/2988547)
 : **🛝 Week 2 — all slides**
 : 💡**Resources**:
+: * [**Week 1&2 webclicker questions**]() — use me to study for exams!
 : * [**Exam question bank**](https://docs.google.com/document/d/1_qDCsYOPsfxllOc6KUFbGIa8eB102DDI4iY1hnWydYE/edit?usp=sharing) — use me to study for exams!
 : * [Linear regression modeling workflow](https://docs.google.com/document/d/1C3tzwvHmFvLtFlsFQCIB61KG9klACVmdcKRRBz1PqZ4/edit?usp=sharing)
 : * [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me to follow along in lecture!
@@ -29,7 +30,7 @@ title: Week 2 — Regression
 
 **Oct 10 (F)**
 : **LEC 6**{: .label .label-grey} [**Other considerations in regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/7) 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16169590)
 : 📖 Readings: [ISLP Ch. 3.3](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 2**{: .label .label-purple} released! (optional) <font color="red">due M, Oct 13 @ 11:59pm</font>
