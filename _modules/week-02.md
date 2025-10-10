@@ -5,7 +5,7 @@ title: Week 2 — Regression
 : [**📊 FINAL PROJECT GROUPS 📊**](https://canvas.ucsd.edu/courses/68350/modules/items/2988547)
 : **🛝 Week 2 — all slides**
 : 💡**Resources**:
-: * [**Week 1&2 webclicker questions**]() — use me to study for exams!
+: * [**Week 1&2 webclicker questions**](https://canvas.ucsd.edu/courses/68350/files/16176223) — use me to study for exams!
 : * [**Exam question bank**](https://docs.google.com/document/d/1_qDCsYOPsfxllOc6KUFbGIa8eB102DDI4iY1hnWydYE/edit?usp=sharing) — use me to study for exams!
 : * [Linear regression modeling workflow](https://docs.google.com/document/d/1C3tzwvHmFvLtFlsFQCIB61KG9klACVmdcKRRBz1PqZ4/edit?usp=sharing)
 : * [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me to follow along in lecture!
