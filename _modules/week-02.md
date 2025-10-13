@@ -11,7 +11,8 @@ title: Week 2 — Regression
 : * [Models notes template](https://canvas.ucsd.edu/courses/68350/files/16119533) — use me to follow along in lecture!
 : * [Models overview notes template](https://canvas.ucsd.edu/courses/68350/files/16145778) — use me as a learning tool!
 : * [Common statistical tests are linear models!](https://lindeloev.github.io/tests-as-linear/)
-: 🚨 **Week 2 Reminders**: please see this [announcement](https://canvas.ucsd.edu/courses/68350/discussion_topics/980864)
+: 🚨 [**Week 2 - Monday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/980864)
+: 🚨 [**Week 2 - Friday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/983068)
 
 **Oct 6 (M)**
 : **LEC 4**{: .label .label-grey} [**Simple linear regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/5) 🎥  
