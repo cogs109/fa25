@@ -20,7 +20,7 @@ title: Week 3 — Classification
 **Oct 17 (F)**
 : **LEC 8**{: .label .label-grey} **Generative classification models: LDA, QDA, Naive Bayes** 🎥  
     : [Slides](.)
-: 📖 Readings: [ISLP Ch. 4.4-4.5](https://www.statlearning.com/)
+: 📖 Readings: [ISLP Ch. 4.4](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **HW 3**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](.)
