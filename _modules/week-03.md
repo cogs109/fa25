@@ -3,6 +3,7 @@ title: Week 3 — Classification
 ---
 **General**
 : **🛝 Week 3 — all slides**
+: 🚨 [**Week 3 - Monday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/984262)
 
 **Oct 13 (M)**
 : **EXAM 1**{: .label .label-red} *covers Weeks 1 & 2*
