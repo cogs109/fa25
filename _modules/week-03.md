@@ -15,7 +15,7 @@ title: Week 3 — Classification
    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/229752)
 
 **Oct 15 (W)**
-: **LEC 7**{: .label .label-grey} [**Logistic Regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/8)  🎥  
+: **LEC 7**{: .label .label-grey} [**Logistic Regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/9)  🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16218633)
 : 📖 Readings: [ISLP Ch. 4.1-4.3](https://www.statlearning.com/)
 : **Group project**{: .label .label-blue} [**Checkpoint 1**](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#heading=h.b9iovh6vvny9) due Mon, Oct 20 
@@ -23,7 +23,7 @@ title: Week 3 — Classification
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
 **Oct 17 (F)**
-: **LEC 8**{: .label .label-grey} [**Generative classification models**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/9) 🎥  
+: **LEC 8**{: .label .label-grey} [**Generative classification models**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/10) 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 4.4](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
