@@ -14,12 +14,12 @@ title: Week 3 — Classification
 
 **Oct 15 (W)**
 : **LEC 7**{: .label .label-grey} **Logistic Regression** 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16218633)
 : 📖 Readings: [ISLP Ch. 4.1-4.3](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
 **Oct 17 (F)**
-: **LEC 8**{: .label .label-grey} **Generative classification models: LDA, QDA, Naive Bayes** 🎥  
+: **LEC 8**{: .label .label-grey} **Generative classification models** 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 4.4](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
