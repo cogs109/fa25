@@ -8,7 +8,7 @@ title: Week 9 — Neural networks
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 10.1-10.2](https://www.statlearning.com/)
 : **Group project**{: .label .label-blue} [**Checkpoint 3**](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#bookmark=id.56satzek98gz) <font color="red">due 11:59pm</font>
-    : [Submit video]( ) / [Submit self-grade]
+    : [Submit video](https://canvas.ucsd.edu/courses/68350/assignments/1035171) / [Submit self-grade]()
 : **Quiz 8**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
     : [Submit](.)
 
