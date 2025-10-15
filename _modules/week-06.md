@@ -6,6 +6,8 @@ title: Week 6 — Non-Linear Regression
 : **LEC 14**{: .label .label-grey} **Polynomial regression; Step & basis functions** 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 7.1-7.3](https://www.statlearning.com/)
+: **Group project**{: .label .label-blue} [**Checkpoint 2**](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#bookmark=id.l1nkrb4299yd) <font color="red">due 11:59pm</font>
+    : [Submit video]( ) / [Submit self-grade]
 : **Quiz 5**{: .label .label-yellow} <font color="orange">due 11:59pm</font>
     : [Submit](.)
 
@@ -20,5 +22,5 @@ title: Week 6 — Non-Linear Regression
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 7.7](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
-: **HW 6**{: .label .label-red } <font color="red">due 11:59pm</font>
+: **HW 6**{: .label .label-red } 
     : [Submit](.)
