@@ -28,4 +28,4 @@ title: Week 3 — Classification
 : 📖 Readings: [ISLP Ch. 4.4](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **HW 3**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit](.)
+    : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1038947)
