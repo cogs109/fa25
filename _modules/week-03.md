@@ -27,5 +27,7 @@ title: Week 3 — Classification
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 4.4](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+: **Quiz 3**{: .label .label-purple } released! due Mon, Oct 20
+    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230241)
 : **HW 3**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1038947)
