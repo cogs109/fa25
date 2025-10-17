@@ -1,6 +1,10 @@
 ---
 title: Week 6 — Non-Linear Regression
 ---
+**General**
+: [**🛝 Week 6 — all slides**]
+: 🚨 [**Week 6 - Monday reminders**]
+: 🚨 [**Week 6 - Friday reminders**]
 
 **Nov 3 (M)**
 : **LEC 14**{: .label .label-grey} **Polynomial regression; Step & basis functions** 🎥  
@@ -8,6 +12,8 @@ title: Week 6 — Non-Linear Regression
 : 📖 Readings: [ISLP Ch. 7.1-7.3](https://www.statlearning.com/)
 : **Group project**{: .label .label-blue} [**Checkpoint 2**](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#bookmark=id.l1nkrb4299yd) <font color="red">due 11:59pm</font>
     : [Submit video](https://canvas.ucsd.edu/courses/68350/assignments/1035170) / [Submit self-grade]()
+: **HW 6**{: .label .label-purple } released!
+    : [Details]
 : **Quiz 5**{: .label .label-yellow} <font color="orange">due 11:59pm</font>
     : [Submit](.)
 
