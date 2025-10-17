@@ -1,12 +1,17 @@
 ---
 title: Week 5 — Model Selection & Regularization
 ---
-
+**General**
+: [**🛝 Week 5 — all slides**]
+: 🚨 [**Week 5 - Monday reminders**]
+: 🚨 [**Week 5 - Friday reminders**]
 
 **Oct 27 (M)**
 : **EXAM 2**{: .label .label-red} *covers Weeks 3 & 4*
 : **Quiz 4**{: .label .label-yellow } <font color="orange">(optional) due 11:59pm</font>
     : [Submit](.)
+: **HW 5**{: .label .label-purple } released!
+    : [Details]
 
 **Oct 29 (W)**
 : **LEC 12**{: .label .label-grey} **Model selection** 🎥  
