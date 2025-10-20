@@ -13,7 +13,7 @@ title: Week 4 — Resampling
 : **Group project**{: .label .label-blue} [**Checkpoint 1**](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#heading=h.b9iovh6vvny9) <font color="red">due 11:59pm</font>
     : [Submit video](https://canvas.ucsd.edu/courses/68350/assignments/1035169) / [Submit self-grade](https://docs.google.com/forms/d/e/1FAIpQLSeib0sDPj5qp2ZEEC3gMU7FrWoacxFdSc37lv0MGygypk4AMw/viewform)
 : **HW 4**{: .label .label-purple } released!
-    : [Details](https://canvas.ucsd.edu/courses/68350/assignments/1040232)
+    : [Details](https://docs.google.com/document/d/15apHTLaQlOM2STaFKIRACgesfhz7drJKFHhDvwv8SBk/edit?usp=sharing)
 : **Quiz 3**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230241)
 
