@@ -8,7 +8,7 @@ title: Week 4 — Resampling
 
 **Oct 20 (M)**
 : **LEC 9**{: .label .label-grey} [**Cross-validation**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/10) 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16265236)
 : 📖 Readings: [ISLP Ch. 5.1](https://www.statlearning.com/)
 : **Group project**{: .label .label-blue} [**Checkpoint 1**](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#heading=h.b9iovh6vvny9) <font color="red">due 11:59pm</font>
     : [Submit video](https://canvas.ucsd.edu/courses/68350/assignments/1035169) / [Submit self-grade](https://docs.google.com/forms/d/e/1FAIpQLSeib0sDPj5qp2ZEEC3gMU7FrWoacxFdSc37lv0MGygypk4AMw/viewform)
