@@ -28,12 +28,14 @@ title: Week 2 — Regression
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16146491)
 : 📖 Readings: [ISLP Ch. 3.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16277420)
 
 **Oct 10 (F)**
 : **LEC 6**{: .label .label-grey} [**Other considerations in regression**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/7) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16169590)
 : 📖 Readings: [ISLP Ch. 3.3](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16277420)
 : **Quiz 2**{: .label .label-purple} released! (optional) <font color="red">due M, Oct 13 @ 11:59pm</font>
    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/229752)
 : **HW 2**{: .label .label-red } <font color="red">due 11:59pm</font>
