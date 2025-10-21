@@ -22,12 +22,14 @@ title: Week 3 — Classification
 : **Group project**{: .label .label-blue} [**Checkpoint 1**](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#heading=h.b9iovh6vvny9) due Mon, Oct 20 
     : [Submit video](https://canvas.ucsd.edu/courses/68350/assignments/1035169) / [Submit self-grade](https://docs.google.com/forms/d/e/1FAIpQLSeib0sDPj5qp2ZEEC3gMU7FrWoacxFdSc37lv0MGygypk4AMw/viewform)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16277422)
 
 **Oct 17 (F)**
 : **LEC 8**{: .label .label-grey} [**Generative classification models**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/10) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16241215)
 : 📖 Readings: [ISLP Ch. 4.4](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16277422)
 : **Quiz 3**{: .label .label-purple } released! due Mon, Oct 20
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230241)
 : **HW 3**{: .label .label-red } <font color="red">due 11:59pm</font>
