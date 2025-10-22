@@ -23,7 +23,7 @@ title: Week 4 — Resampling
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
 **Oct 24 (F)**
-: **LEC 11**{: .label .label-grey} [**Generative classification models (cont'd) & kNN**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/12) 🎥  
+: **LEC 11**{: .label .label-grey} [**Generative classification models (cont'd) & kNN**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/13) 🎥  
     : [Slides](.)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **HW 4**{: .label .label-red } <font color="red">due 11:59pm</font>
