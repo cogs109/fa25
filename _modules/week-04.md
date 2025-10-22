@@ -3,7 +3,6 @@ title: Week 4 — Resampling
 ---
 **General**
 : **🛝 Week 4 — all slides**
-: 🚨 **Week 4 - Monday reminders**
 : 🚨 **Week 4 - Friday reminders**
 
 **Oct 20 (M)**
