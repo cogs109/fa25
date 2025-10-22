@@ -17,7 +17,7 @@ title: Week 4 — Resampling
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230241)
 
 **Oct 22 (W)**
-: **LEC 10**{: .label .label-grey} [**Bootstrap methods & predictive modeling workflow**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/12) (podcast audio error) 🎥  
+: **LEC 10**{: .label .label-grey} [**Bootstrap methods & predictive modeling workflow**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/12) (podcast audio error, please review slides) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16285400)
 : 📖 Readings: [ISLP Ch. 5.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
