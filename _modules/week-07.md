@@ -19,5 +19,7 @@ title: Week 7 — Tree-Based Methods
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 8.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+: **Quiz 7**{: .label .label-purple } released! due Mon, Nov 17
+    : [Submit]()
 : **HW 7**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](.)
