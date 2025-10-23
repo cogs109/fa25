@@ -4,6 +4,8 @@ title: Week 4 — Resampling
 **General**
 : **🛝 Week 4 — all slides**
 : 🚨 **Week 4 - Friday reminders**
+: 💡**Resources**:
+: * [**Week 3&4 webclicker questions**]() — use me to study for exams!
 
 **Oct 20 (M)**
 : **LEC 9**{: .label .label-grey} [**Cross-validation**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/11) 🎥  
