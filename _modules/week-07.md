@@ -5,6 +5,8 @@ title: Week 7 — Tree-Based Methods
 
 **Nov 10 (M)**
 : **EXAM 3**{: .label .label-red} *covers Weeks 5 & 6*
+: * You may bring **one _hand-written_ 8.5x11" cheat-sheet, one-sided**
+: * **To prepare:** review HW 5&6, Quiz 5&6, webclicker questions from Week 5&6, check out the [**exam question bank**](https://docs.google.com/document/d/1_qDCsYOPsfxllOc6KUFbGIa8eB102DDI4iY1hnWydYE/edit?usp=sharing).
 : **Quiz 6**{: .label .label-yellow } <font color="orange">(optional) due 11:59pm</font>
     : [Submit](.)
 
