@@ -27,5 +27,7 @@ title: Week 4 — Resampling
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 4.4 & 2.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+: **Quiz 4**{: .label .label-purple } released! (optional) due Mon, Oct 27
+    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230242)
 : **HW 4**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1040232)
