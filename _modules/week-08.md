@@ -20,5 +20,7 @@ title: Week 8 — Unsupervised Learning
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 12.4](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+: **Quiz 8**{: .label .label-purple } released! due Mon, Nov 24
+    : [Submit]()
 : **HW 8**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](.)
