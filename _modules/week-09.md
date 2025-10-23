@@ -21,5 +21,7 @@ title: Week 9 — Neural networks
 **Nov 28 (F)**
 : **THANKSGIVING BREAK — No class**{: .label .label-grey}
 : **DISC**{: .label .label-green} **No section this week** 
+: **Quiz 9**{: .label .label-purple } released! (optional) due Mon, Dec 1
+    : [Submit]()
 : **HW 9**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](.)
