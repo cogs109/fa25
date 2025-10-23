@@ -5,6 +5,8 @@ title: Week 6 — Non-Linear Regression
 : [**🛝 Week 6 — all slides**]
 : 🚨 [**Week 6 - Monday reminders**]
 : 🚨 [**Week 6 - Friday reminders**]
+: 💡**Resources**:
+: * [**Week 5&6 webclicker questions**]() — use me to study for exams!
 
 **Nov 3 (M)**
 : **LEC 14**{: .label .label-grey} **Polynomial regression; Step & basis functions** 🎥  
