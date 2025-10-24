@@ -16,13 +16,13 @@ title: Week 5 — Model Selection & Regularization
     : [Details]
 
 **Oct 29 (W)**
-: **LEC 12**{: .label .label-grey} **Model selection** 🎥  
+: **LEC 12**{: .label .label-grey} [**Model selection**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/15) 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 6.1](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
 **Oct 31 (F)**
-: **LEC 13**{: .label .label-grey} **Regularization (shrinkage)** 🎥  
+: **LEC 13**{: .label .label-grey} [**Regularization (shrinkage)**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/16) 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 6.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
