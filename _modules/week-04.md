@@ -26,7 +26,7 @@ title: Week 4 — Resampling
 
 **Oct 24 (F)**
 : **LEC 11**{: .label .label-grey} [**Generative classification models (cont'd) & kNN**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/13) 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16315345)
 : 📖 Readings: [ISLP Ch. 4.4 & 2.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 4**{: .label .label-purple } released! (optional) due Mon, Oct 27
