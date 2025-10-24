@@ -2,10 +2,10 @@
 title: Week 4 — Resampling 
 ---
 **General**
-: **🛝 Week 4 — all slides**
-: 🚨 **Week 4 - Friday reminders**
+: [**🛝 Week 4 — all slides**](https://canvas.ucsd.edu/courses/68350/files/16317852)
+: [🚨 **Week 4 - Friday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/989133)
 : 💡**Resources**:
-: * [**Week 3&4 webclicker questions**]() — use me to study for exams!
+: * [**Week 3&4 webclicker questions**](https://canvas.ucsd.edu/courses/68350/files/16316316) — use me to study for exams!
 
 **Oct 20 (M)**
 : **LEC 9**{: .label .label-grey} [**Cross-validation**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/11) 🎥  
