@@ -3,7 +3,7 @@ title: Week 5 — Model Selection & Regularization
 ---
 **General**
 : [**🛝 Week 5 — all slides**]
-: 🚨 [**Week 5 - Monday reminders**]
+: 🚨 [**Week 5 - Monday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/990127)
 : 🚨 [**Week 5 - Friday reminders**]
 
 **Oct 27 (M)**
@@ -12,7 +12,7 @@ title: Week 5 — Model Selection & Regularization
 : * **To prepare:** review HW 3&4, Quiz 3&4, webclicker questions from Week 3&4, check out the [**exam question bank**](https://docs.google.com/document/d/1_qDCsYOPsfxllOc6KUFbGIa8eB102DDI4iY1hnWydYE/edit?usp=sharing).
 : **Quiz 4**{: .label .label-yellow } <font color="orange">(optional) due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230242)
-: **HW 5**{: .label .label-purple } released! **HW5 ia very short ~2hrs with NO coding portion**, because I want everyone to focus their coding efforts on their **[group checkpoint 2](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#heading=h.nja6icauu0pi)** this week!
+: **HW 5**{: .label .label-purple } released! **HW5 ia very short ~2hrs with NO coding portion**, because I want everyone to focus their coding efforts on their **[group checkpoint 2](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#heading=h.nja6icauu0pi)** this week! We will also address most of it directly in lecture.
     : [Details](https://canvas.ucsd.edu/courses/68350/assignments/1040233)
 
 **Oct 29 (W)**
