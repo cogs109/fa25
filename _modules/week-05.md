@@ -27,6 +27,6 @@ title: Week 5 — Model Selection & Regularization
 : 📖 Readings: [ISLP Ch. 6.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 5**{: .label .label-purple } released! due Mon, Nov 3
-    : [Submit]()
+    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230273)
 : **HW 5**{: .label .label-red }<font color="red">due 11:59pm</font>
-    : [Submit](.)
+    : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1040233)
