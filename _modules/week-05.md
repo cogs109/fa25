@@ -16,8 +16,8 @@ title: Week 5 — Model Selection & Regularization
     : [Details](https://canvas.ucsd.edu/courses/68350/assignments/1040233)
 
 **Oct 29 (W)**
-: **LEC 12**{: .label .label-grey} [**Model selection**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/15) 🎥  
-    : [Slides](.)
+: **LEC 12**{: .label .label-grey} [**Subset selection and model selection metrics**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/15) 🎥  
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16361659)
 : 📖 Readings: [ISLP Ch. 6.1](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
