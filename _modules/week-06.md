@@ -31,6 +31,6 @@ title: Week 6 — Non-Linear Regression
 : 📖 Readings: [ISLP Ch. 7.7](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 6**{: .label .label-purple } released! (optional) due Mon, Nov 10
-    : [Submit]()
+    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230700)
 : **HW 6**{: .label .label-red } 
     : [Submit](.)
