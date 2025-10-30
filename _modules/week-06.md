@@ -17,7 +17,7 @@ title: Week 6 — Non-Linear Regression
 : **HW 6**{: .label .label-purple } released!
     : [Details]
 : **Quiz 5**{: .label .label-yellow} <font color="orange">due 11:59pm</font>
-    : [Submit](.)
+    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230273)
 
 **Nov 5 (W)**
 : **LEC 15**{: .label .label-grey} **Splines & smoothing** 🎥  
