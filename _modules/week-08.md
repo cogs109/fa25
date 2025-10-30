@@ -7,7 +7,7 @@ title: Week 8 — Unsupervised Learning
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 12.1-12.2](https://www.statlearning.com/)
 : **Quiz 7**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
-    : [Submit](.)
+    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230701)
 
 **Nov 19 (W)**
 : **LEC 20**{: .label .label-grey} **Factor analysis** 🎥  
@@ -23,4 +23,4 @@ title: Week 8 — Unsupervised Learning
 : **Quiz 8**{: .label .label-purple } released! due Mon, Nov 24
     : [Submit]()
 : **HW 8**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit](.)
+    : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230703)
