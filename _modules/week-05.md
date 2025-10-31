@@ -23,7 +23,7 @@ title: Week 5 — Model Selection & Regularization
 
 **Oct 31 (F)**
 : **LEC 13**{: .label .label-grey} [**Regularization (shrinkage)**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/16) 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16382987)
 : 📖 Readings: [ISLP Ch. 6.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 5**{: .label .label-purple } released! due Mon, Nov 3
