@@ -2,9 +2,9 @@
 title: Week 5 — Model Selection & Regularization
 ---
 **General**
-: [**🛝 Week 5 — all slides**]
+: [**🛝 Week 5 — all slides**](https://canvas.ucsd.edu/courses/68350/files/16389135)
 : 🚨 [**Week 5 - Monday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/990127)
-: 🚨 [**Week 5 - Friday reminders**]
+: 🚨 [**Week 5 - Friday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/991961)
 
 **Oct 27 (M)**
 : **EXAM 2**{: .label .label-red} *covers Weeks 3 & 4*
