@@ -15,5 +15,8 @@ title: Week 10 — Final project presentations
 
 **Dec 3-5 (W-F)**
 : **Final group project presentations**{: .label .label-blue}
+
+**Dec 5 (F)**
+: **LEC 24**{: .label .label-grey} **Course conclusion** 🎥  
 : **DISC**{: .label .label-green} **No section this week** 
 : **SET evaluations**{: .label .label-red} <font color="red">due Sat, Dec 6 at 8am</font>
