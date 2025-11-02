@@ -9,9 +9,9 @@ title: Week 6 — Non-Linear Regression
 : * [**Week 5&6 webclicker questions**]() — use me to study for exams!
 
 **Nov 3 (M)**
-: **LEC 14**{: .label .label-grey} **Polynomial regression; Step & basis functions** 🎥  
+: **LEC 14**{: .label .label-grey} **Polynomial regression; step, basis, & spline functions** 🎥  
     : [Slides](.)
-: 📖 Readings: [ISLP Ch. 7.1-7.3](https://www.statlearning.com/)
+: 📖 Readings: [ISLP Ch. 7.1-7.5](https://www.statlearning.com/)
 : **Group project**{: .label .label-blue} [**Checkpoint 2**](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#bookmark=id.l1nkrb4299yd) <font color="red">due 11:59pm</font>
     : [Submit video](https://docs.google.com/forms/d/e/1FAIpQLSfTb4DEZIQBuKMfNwzMtFsQiwU7qv-IDS8c-2s2GU8uVdP5RA/viewform?usp=publish-editor) / [Submit self-grade](https://docs.google.com/forms/d/e/1FAIpQLScr13fBpMlSmAuw9VBNbjJ2vsOFCDMyV4YWmTNwZQGlbzyN0g/viewform?usp=header)
 : **HW 6**{: .label .label-purple } released!
@@ -20,15 +20,14 @@ title: Week 6 — Non-Linear Regression
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230273)
 
 **Nov 5 (W)**
-: **LEC 15**{: .label .label-grey} **Splines & smoothing** 🎥  
+: **LEC 15**{: .label .label-grey} **Generalized additive models** 🎥  
     : [Slides](.)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
-: 📖 Readings: [ISLP Ch. 7.4-7.5](https://www.statlearning.com/)
+: 📖 Readings: [ISLP Ch. 7.7](https://www.statlearning.com/)
 
 **Nov 7 (F)**
-: **LEC 16**{: .label .label-grey} **Generalized additive models** 🎥  
+: **LEC 16**{: .label .label-grey} **GAMs (cont'd) & Exam 3 review** 🎥  
     : [Slides](.)
-: 📖 Readings: [ISLP Ch. 7.7](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 6**{: .label .label-purple } released! (optional) due Mon, Nov 10
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230700)
