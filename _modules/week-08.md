@@ -6,6 +6,8 @@ title: Week 8 — Unsupervised Learning
 : **LEC 19**{: .label .label-grey} **Principal components analysis (PCA)** 🎥  
     : [Slides](.)
 : 📖 Readings: [ISLP Ch. 12.1-12.2](https://www.statlearning.com/)
+: **HW 8**{: .label .label-purple} released!
+    : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1042897)
 : **Quiz 7**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230701)
 
@@ -21,6 +23,6 @@ title: Week 8 — Unsupervised Learning
 : 📖 Readings: [ISLP Ch. 12.4](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 8**{: .label .label-purple } released! due Mon, Nov 24
-    : [Submit]()
-: **HW 8**{: .label .label-red } <font color="red">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230703)
+: **HW 8**{: .label .label-red } <font color="red">due 11:59pm</font>
+    : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1042897)
