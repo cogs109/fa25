@@ -20,12 +20,14 @@ title: Week 5 — Model Selection & Regularization
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16361659)
 : 📖 Readings: [ISLP Ch. 6.1](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16325955)
 
 **Oct 31 (F)**
 : **LEC 13**{: .label .label-grey} [**Regularization (shrinkage)**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/16) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16382987)
 : 📖 Readings: [ISLP Ch. 6.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16325955)
 : **Quiz 5**{: .label .label-purple } released! due Mon, Nov 3
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230273)
 : **HW 5**{: .label .label-red }<font color="red">due 11:59pm</font>
