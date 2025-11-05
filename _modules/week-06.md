@@ -21,7 +21,7 @@ title: Week 6 — Non-Linear Regression
 
 **Nov 5 (W)**
 : **LEC 15**{: .label .label-grey} **Generalized additive models** 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16431270)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 : 📖 Readings: [ISLP Ch. 7.7](https://www.statlearning.com/)
 
