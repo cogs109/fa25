@@ -2,11 +2,11 @@
 title: Week 6 — Non-Linear Regression
 ---
 **General**
-: [**🛝 Week 6 — all slides**]
-: 🚨 [**Week 6 - Monday reminders**]
+: [**🛝 Week 6 — all slides**](https://canvas.ucsd.edu/courses/68350/files/16454064)
+: 🚨 [**Week 6 - Monday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/992699)
 : 🚨 [**Week 6 - Friday reminders**]
 : 💡**Resources**:
-: * [**Week 5&6 webclicker questions**]() — use me to study for exams!
+: * [**Week 5&6 webclicker questions**](https://canvas.ucsd.edu/courses/68350/files/16454108) — use me to study for exams!
 
 **Nov 3 (M)**
 : **LEC 14**{: .label .label-grey} **Polynomial regression and basis functions** 🎥  
@@ -27,7 +27,7 @@ title: Week 6 — Non-Linear Regression
 
 **Nov 7 (F)**
 : **LEC 16**{: .label .label-grey} **GAMs (cont'd) & Exam 3 review** 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16454046)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 6**{: .label .label-purple } released! (optional) due Mon, Nov 10
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230700)
