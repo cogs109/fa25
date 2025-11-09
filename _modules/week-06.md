@@ -23,12 +23,14 @@ title: Week 6 — Non-Linear Regression
 : **LEC 15**{: .label .label-grey} [**Generalized additive models**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/18) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16431270)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16472053)
 : 📖 Readings: [ISLP Ch. 7.7](https://www.statlearning.com/)
 
 **Nov 7 (F)**
 : **LEC 16**{: .label .label-grey} [**GAMs (cont'd) & Exam 3 review**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/19) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16454046)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16472053)
 : **Quiz 6**{: .label .label-purple } released! (optional) due Mon, Nov 10
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230700)
 : **HW 6**{: .label .label-red } 
