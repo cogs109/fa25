@@ -4,7 +4,7 @@ title: Week 6 — Non-Linear Regression
 **General**
 : [**🛝 Week 6 — all slides**](https://canvas.ucsd.edu/courses/68350/files/16454064)
 : 🚨 [**Week 6 - Monday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/992699)
-: 🚨 [**Week 6 - Friday reminders**]
+: 🚨 [**Week 6 - Friday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/994644)
 : 💡**Resources**:
 : * [**Week 5&6 webclicker questions**](https://canvas.ucsd.edu/courses/68350/files/16454108) — use me to study for exams!
 
