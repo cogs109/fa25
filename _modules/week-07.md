@@ -14,7 +14,7 @@ title: Week 7 — Tree-Based Methods
 
 **Nov 12 (W)**
 : **LEC 17**{: .label .label-grey} [**Decision trees**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/21) 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16496603)
 : 📖 Readings: [ISLP Ch. 8.1](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
