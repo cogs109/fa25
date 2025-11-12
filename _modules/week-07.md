@@ -2,7 +2,10 @@
 title: Week 7 — Tree-Based Methods
 ---
 
-
+**General**
+: [**🛝 Week 7 — all slides**]
+: 🚨 [**Week 7 - Monday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/995440)
+: 🚨 [**Week 7 - Friday reminders**]
 **Nov 10 (M)**
 : **EXAM 3**{: .label .label-red} *covers Weeks 5 & 6*
 : * You may bring **one _hand-written_ 8.5x11" cheat-sheet, one-sided**
