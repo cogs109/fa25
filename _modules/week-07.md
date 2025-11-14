@@ -29,5 +29,5 @@ title: Week 7 — Tree-Based Methods
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 7**{: .label .label-purple } released! due Mon, Nov 17
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230701)
-: **HW 7**{: .label .label-red } <font color="red">due Saturday, Nov 15 @ 11:59pm</font>
+: **HW 7**{: .label .label-red } <font color="red">due Sat, Nov 15 @ 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1042222)
