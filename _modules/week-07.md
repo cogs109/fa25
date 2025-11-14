@@ -23,7 +23,7 @@ title: Week 7 — Tree-Based Methods
 
 **Nov 14 (F)**
 : **LEC 18**{: .label .label-grey} [**Bagging, random forests, boosting**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/22) 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16519557)
 : 📖 Readings: [ISLP Ch. 8.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 7**{: .label .label-purple } released! due Mon, Nov 17
