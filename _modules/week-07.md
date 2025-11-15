@@ -21,12 +21,14 @@ title: Week 7 — Tree-Based Methods
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16496603)
 : 📖 Readings: [ISLP Ch. 8.1](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16530763)
 
 **Nov 14 (F)**
 : **LEC 18**{: .label .label-grey} [**Bagging, random forests, boosting**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/22) 🎥  
     : [Slides](https://canvas.ucsd.edu/courses/68350/files/16519557)
 : 📖 Readings: [ISLP Ch. 8.2](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16530763)
 : **Quiz 7**{: .label .label-purple } released! due Mon, Nov 17
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230701)
 : **HW 7**{: .label .label-red } <font color="red">due Sat, Nov 15 @ 11:59pm</font>
