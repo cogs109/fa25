@@ -10,6 +10,7 @@ title: Week 8 — Unsupervised Learning
 * [Everything you did and didn't know about PCA](https://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 * [StatQuest - PCA](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 * [3blue1brown - eigenvalues & eigenvectors](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
 : **HW 8**{: .label .label-purple} released!
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1042897)
 : **Quiz 7**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
