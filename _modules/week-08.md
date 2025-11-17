@@ -23,7 +23,7 @@ title: Week 8 — Unsupervised Learning
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
 **Nov 21 (F)**
-: **LEC 21**{: .label .label-grey} **NO CLASS** (work on your group projects!)
+: **NO CLASS**{: .label .label-grey} (work on your group projects!)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 8**{: .label .label-purple } released! due Mon, Nov 24
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230703)
