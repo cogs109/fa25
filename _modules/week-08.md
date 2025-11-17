@@ -2,9 +2,14 @@
 title: Week 8 — Unsupervised Learning
 ---
 
+**General**
+: [**🛝 Week 8 — all slides**]
+: 🚨 [**Week 8 - Monday reminders**]
+: 🚨 [**Week 8 - Friday reminders**]
+
 **Nov 17 (M)**
 : **LEC 19**{: .label .label-grey} [**Principal components analysis (PCA)**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/23) 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16544487)
 : 📖 Readings / Resources: 
 * [ISLP Ch. 12.1-12.2](https://www.statlearning.com/)
 * [Everything you did and didn't know about PCA](https://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
