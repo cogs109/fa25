@@ -17,15 +17,13 @@ title: Week 8 — Unsupervised Learning
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230701)
 
 **Nov 19 (W)**
-: **LEC 20**{: .label .label-grey} [**PCA continued**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/24) 🎥  
+: **LEC 20**{: .label .label-grey} [**K-means & hierarchical clustering**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/25) 🎥  
     : [Slides](.)
-: 📖 Readings: TBD
+: 📖 Readings: [ISLP Ch. 12.4](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
 **Nov 21 (F)**
-: **LEC 21**{: .label .label-grey} [**K-means & hierarchical clustering**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/25) 🎥  
-    : [Slides](.)
-: 📖 Readings: [ISLP Ch. 12.4](https://www.statlearning.com/)
+: **LEC 21**{: .label .label-grey} **NO CLASS** (work on your group projects!)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
 : **Quiz 8**{: .label .label-purple } released! due Mon, Nov 24
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230703)
