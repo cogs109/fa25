@@ -24,7 +24,9 @@ title: Week 8 — Unsupervised Learning
 **Nov 19 (W)**
 : **LEC 20**{: .label .label-grey} [**K-means & hierarchical clustering**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/25) 🎥  
     : [Slides](.)
-: 📖 Readings: [ISLP Ch. 12.4](https://www.statlearning.com/)
+: 📖 Readings / Resources: 
+* [ISLP Ch. 12.4](https://www.statlearning.com/)
+* [k-means interactive visualizations](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) | [another fun one](https://hckr.pl/k-means-visualization/)
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
 
 **Nov 21 (F)**
