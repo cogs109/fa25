@@ -29,10 +29,12 @@ title: Week 8 — Unsupervised Learning
 * [k-means interactive visualizations](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) | [another fun one](https://hckr.pl/k-means-visualization/)
 
 : **DISC**{: .label .label-green} 2pm @ WLH 2113
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16580017)
 
 **Nov 21 (F)**
 : **NO CLASS**{: .label .label-grey} (work on your group projects!)
 : **DISC**{: .label .label-green} 4pm & 5pm @ WLH 2207
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16580017)
 : **Quiz 8**{: .label .label-purple } released! due Mon, Nov 24
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230703)
 : **HW 8**{: .label .label-red } <font color="red">due 11:59pm</font>
