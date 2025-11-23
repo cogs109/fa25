@@ -4,7 +4,7 @@ title: Week 9 — Neural networks
 
 
 **Nov 24 (M)**
-: **LEC 21**{: .label .label-grey} **Simple neural networks** 🎥  
+: **LEC 21**{: .label .label-grey} **Neural networks** 🎥  
     : [Slides](.)
 : 📖 Readings & Resources: 
 * [ISLP Ch. 10.1-10.2, 10.7](https://www.statlearning.com/)
