@@ -6,9 +6,12 @@ title: Week 9 — Neural networks
 **Nov 24 (M)**
 : **LEC 21**{: .label .label-grey} **Simple neural networks** 🎥  
     : [Slides](.)
-: 📖 Readings: [ISLP Ch. 10.1-10.2](https://www.statlearning.com/)
+: 📖 Readings & Resources: 
+* [ISLP Ch. 10.1-10.2, 10.7](https://www.statlearning.com/)
+* [Tensorflow neural network playground](https://playground.tensorflow.org/)
+* [Google neural network tutorial](https://developers.google.com/machine-learning/crash-course/neural-networks)
 : **Group project**{: .label .label-blue} [**Checkpoint 3**](https://docs.google.com/document/d/1_XTt63Naja7KX1PgO1hTmec33bWs_3SHLDK0Y0sz3ps/edit?tab=t.0#heading=h.1o8bhlhyynhn) <font color="red">due 11:59pm</font>
-    : [Submit video]() / [Submit self-grade]()
+    : [Submit video](https://forms.gle/PnsAgdxicSYRpFxT8) / [Submit self-grade](https://docs.google.com/forms/d/e/1FAIpQLSc_F5T6cPmC7_GkSeCd1xAzBEojTRvGhw-wnPBdHTokQ_AB1g/viewform?usp=header)
 : **HW 9**{: .label .label-purple } released!
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1043277)
 : **Quiz 8**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
