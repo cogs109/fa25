@@ -10,7 +10,7 @@ title: Week 9 — Neural networks
 
 **Nov 24 (M)**
 : **LEC 21**{: .label .label-grey} **Neural networks** 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16618680)
 : 📖 Readings & Resources: 
 * [ISLP Ch. 10.1-10.2, 10.7](https://www.statlearning.com/)
 * [Tensorflow neural network playground](https://playground.tensorflow.org/)
