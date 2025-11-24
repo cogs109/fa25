@@ -4,8 +4,6 @@ title: Week 10 — Final project presentations
 
 **Dec 1 (M)**
 : **EXAM 4**{: .label .label-red} *covers Weeks 7, 8, & 9*
-: **HW 9**{: .label .label-red } <font color="red">due 11:59pm</font>
-    : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1043277)
 : **Quiz 9**{: .label .label-yellow } <font color="orange">(optional) due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230852)
 
