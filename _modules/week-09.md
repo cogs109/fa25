@@ -21,7 +21,7 @@ title: Week 9 — Neural networks
     : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1043277)
 : **Quiz 8**{: .label .label-yellow } <font color="orange">due 11:59pm</font>
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230703)
-: **SET evaluations** are open! 
+: [**SET evaluations**](https://academicaffairs.ucsd.edu/Modules/Evals/) are open! They are <font color="red">due Sat, Dec 6 @ 8am</font>
 
 **Nov 26 (W)**
 : **LEC 22**{: .label .label-grey} **Neural networks (continued)** 🎥  
