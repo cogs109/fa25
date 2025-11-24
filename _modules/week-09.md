@@ -34,3 +34,5 @@ title: Week 9 — Neural networks
 : **DISC**{: .label .label-green} **No section this week** 
 : **Quiz 9**{: .label .label-purple } released! (optional) due Mon, Dec 1
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230852)
+: **HW 9**{: .label .label-red } <font color="red">due 11:59pm</font>
+    : [Submit](https://canvas.ucsd.edu/courses/68350/assignments/1043277)
