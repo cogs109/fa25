@@ -8,13 +8,13 @@ title: Week 10 — Final project presentations
     : [Submit](https://canvas.ucsd.edu/courses/68350/quizzes/230852)
 
 **Dec 3 (W)**
-: **Group project expo**{: .label .label-blue}
+: **Group project expo**{: .label .label-blue} @ 9am in [**FAH 1101**](https://maps.app.goo.gl/zusXYnnK2RLjtdS39)
 : **DISC**{: .label .label-green} **No section this week** 
 
 **Dec 3-5 (W-F)**
-: **Final group project presentations**{: .label .label-blue}
+: **Final group project presentations**{: .label .label-blue} in [**CSB 244**](https://maps.app.goo.gl/heXkoQYz9euCT9Yr5). [Book your presentation slot here!](https://calendar.google.com/calendar/appointments/schedules/AcZssZ0AOx3B43pbuVikv_VlcvYTdIP_0IwvX5wWa8TbFKfzVfpsSvDsem-kwJoguqSM3hQVCq4fd0T3)
 
 **Dec 5 (F)**
-: **LEC 23**{: .label .label-grey} **Course conclusion** 🎥  
+: **NO CLASS**{: .label .label-red} 
 : **DISC**{: .label .label-green} **No section this week** 
 : **SET evaluations**{: .label .label-red} <font color="red">due Sat, Dec 6 at 8am</font>
