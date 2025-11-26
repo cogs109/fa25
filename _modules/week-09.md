@@ -3,7 +3,7 @@ title: Week 9 — Neural networks
 ---
 **General**
 : [**🛝 Week 9 — all slides**]
-: 🚨 [**Week 9 - Monday reminders**]
+: 🚨 [**Week 9 - Monday reminders**](https://canvas.ucsd.edu/courses/68350/discussion_topics/1000844)
 : 🚨 [**Week 9 - Friday reminders**]
 : 💡**Resources**:
 : * [**Week 7,8,9 webclicker questions**] — use me to study for exams!
@@ -25,7 +25,7 @@ title: Week 9 — Neural networks
 
 **Nov 26 (W)**
 : **LEC 22**{: .label .label-grey} [**Neural networks (continued)**](https://podcast.ucsd.edu/watch/fa25/cogs109_b00/27) 🎥  
-    : [Slides](.)
+    : [Slides](https://canvas.ucsd.edu/courses/68350/files/16650774)
 : 📖 Readings: [ISLP Ch. 10.1-10.3](https://www.statlearning.com/)
 : **DISC**{: .label .label-green} **No section this week** 
 : **Quiz 9**{: .label .label-purple } released! (optional) due Mon, Dec 1
