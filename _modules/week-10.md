@@ -18,3 +18,6 @@ title: Week 10 — Final project presentations
 : **NO CLASS**{: .label .label-grey} 
 : **DISC**{: .label .label-green} **No section this week** 
 : **SET evaluations**{: .label .label-red} <font color="red">due Sat, Dec 6 at 8am</font>
+    : [Submit](https://academicaffairs.ucsd.edu/Modules/Evals/)
+: **Post-course survey**{: .label .label-red} <font color="red">due Wed, Dec 10 at 11:59pm</font> 
+    : [Submit](https://forms.gle/3dza4MFfRJPaayt98)
